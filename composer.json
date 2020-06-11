@@ -1,0 +1,11 @@
+{
+    "name": "user/1",
+    "description": "Abduqodir Composer",
+    "type": "library",
+    "autoload": {
+    	"psr-4": {
+    		"composer\\": "src/"
+    	}
+    },
+    "require": {}
+}
